@@ -2,7 +2,6 @@
 layout: page
 title:  "Introduction to SQL"
 date:   2018-03-06 00:02:36
-categories: General-SQL
 permalink: /sql/introduction-to-sql
 ---
 
